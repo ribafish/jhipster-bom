@@ -126,3 +126,7 @@ Desktop.ini
 node_modules
 package-lock.json
 
+######################
+# Develocity
+######################
+.mvn/.gradle-enterprise/gradle-enterprise-workspace-id
